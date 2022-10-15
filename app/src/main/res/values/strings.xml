@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evaluacion Sumativa 1</string>
+    <string name="lbl_titulo1">Registro Evaluación 1</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_contrasenia">Password</string>
+    <string name="txt_ciudad">Ciudad</string>
+    <string name="lbl_titulo2">Bienvenido a la app</string>
+
+</resources>
